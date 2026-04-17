@@ -1,4 +1,4 @@
-package com.debug61.mcsbotnet;
+package com.debug61.megainjector;
 
 import java.io.File;
 import java.lang.instrument.Instrumentation;
